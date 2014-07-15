@@ -7,6 +7,7 @@ sponsor: "Sponsored by <br>the Marwick family <br>in memory of Abe & Helen Spect
 learning: "Mishnah: Arachin 3:3-4<br>Daf Yomi (Bavli): Megilah 8<br>Halachah: Mishnah Berurah 422:3-5"
 volume: 28
 issue: 42
+pdf: "Matot 5774.pdf"
 ---
 
 Our parashah opens\: &ldquo;Moshe spoke to the heads of the tribes of Bnei Yisrael, saying, &lsquo;Zeh ha'davar / This is the word that Hashem has commanded&rsquo;.&rdquo;  Rashi observes that many prophets (including Moshe) introduced their messages with the phrase &ldquo;Ko amar Hashem / So said Hashem,&rdquo; but only Moshe introduced some of his messages with &ldquo;Zeh ha'davar / This is the word.&rdquo;
