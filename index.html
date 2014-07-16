@@ -15,7 +15,7 @@ title: Hama'ayan - The Torah Spring
     <div>
 	<p>Volume {{ post.volume }}, No. {{ post.issue }}</p>
 	<p>{{ post.sponsor | strip_html }}</p>
-	{% if post.pdf != '' %}
+	{% if post.pdf and post.pdf != '' %}
 	<p><a href="{{ site.url }}/assets/pdf/{{ post.pdf }}">Download PDF</a></p>
 	{% else %}
 	<p>No PDF available</p>
@@ -34,7 +34,7 @@ title: Hama'ayan - The Torah Spring
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <div>
 	<p>Volume {{ post.volume }}, No. {{ post.issue }}</p>
-	{% if post.pdf != '' %}
+	{% if post.pdf and post.pdf != '' %}
 	<p><a href="{{ site.url }}/assets/pdf/{{ post.pdf }}">Download PDF</a></p>
 	{% else %}
 	<p>No PDF available</p>
