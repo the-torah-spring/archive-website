@@ -4,6 +4,8 @@ markdown: kramdown
 permalink: /:heb_year/:title
 alert: We are in the process of moving the Hama'ayan archives to a new site. Thank you for your patience.
 
+url: http://thetorahspring.org
+
 file_loc: ../filestore/
 link_loc: /assets/pdf/
 
