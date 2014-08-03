@@ -4,6 +4,7 @@ module Jekyll
   class Post
     alias_method :original_initialize, :initialize
     alias_method :original_to_liquid, :to_liquid
+    alias_method :original_url_placeholders, :url_placeholders
     attr_accessor :heb_date
         
     def initialize(site, source, dir, name)
@@ -46,7 +47,15 @@ module Jekyll
         date_string
 	pdf_link
 	has_pdf
+	heb_year
       ])
+    end
+    
+    def url_placeholders
+      ph = original_url_placeholders
+      ph.merge ({
+        :heb_year    => self.heb_year.to_s
+      })
     end
   end
 end
