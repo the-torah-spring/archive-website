@@ -7,7 +7,7 @@ sponsor: "Martin and Michelle Swartz <br>on the second yahrzeit of <br>Martin's 
 learning: "Mishnah: Zevachim 1:4-2:1<br>Daf Yomi (Bavli): Yoma 78<br>Halachah: Mishnah Berurah 328:29-31"
 volume: 28
 issue: 18
-pdf: 
+pdf: "Mishpatim 5774.pdf"
 ---
 
 King Shlomo writes in Mishlei (24:23), "These things, too, are for the wise \[to consider\]: Showing favoritism in judgment is not good." Rabbeinu Bachya ben Asher z"l (Spain; 14th century) writes: From the beginning of the book of Mishlei until here, King Shlomo addresses himself to simpletons and youths. Indeed, he announces at the beginning of the book (1:4) that his intention is, "To provide simpletons with cleverness, a youth with knowledge and design."

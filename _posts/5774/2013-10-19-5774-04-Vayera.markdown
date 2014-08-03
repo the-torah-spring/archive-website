@@ -7,7 +7,7 @@ sponsor: "Mrs. Rochelle Dimont and family <br> on the yahrzeits of <br> grandmot
 learning: "Mishnah: Eduyot 7:2-3<br> Daf Yomi (Bavli): Pesachim 121<br> Begin Masechet Shekalim on Sunday<br> Halachah: Mishnah Berurah 308:13-15"
 volume: 28
 issue: 4
-pdf: 
+pdf: "Vayera 5774.pdf"
 ---
 
  R' Bachya ben Yosef ibn Pekuda z"l (Spain; 11th century) writes: Reconsider all you have known since your youth and the beginning of your education about G-d and His Torah, about the words of the earlier generations, the riddles of the Sages, and the prayers, for these subtle matters are not the same to one whose understanding is immature \[i.e., a youth\] as they are to one whose understanding is mature.

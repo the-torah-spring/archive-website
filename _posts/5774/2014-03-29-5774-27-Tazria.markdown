@@ -7,7 +7,7 @@ sponsor: "Dr. and Mrs. Jules Meisler <br>in memory of his father, Irving Meisler
 learning: "Mishnah: Menachot 5:8-9<br>Daf Yomi (Bavli): Sukkah 54<br>Begin Masechet Beitzah on Tuesday<br>Halachah: Mishnah Berurah 356:2-357:2"
 volume: 28
 issue: 27
-pdf: 
+pdf: "Tazria 5774.pdf"
 ---
 
 This week's parashah introduces the laws of tzara'at, while next week's parashah describes the purification process from that ailment. Regarding this, R' Zvi Yehuda Kook z"l (1891-1982; rosh yeshiva of Yeshivat Merkaz Harav) taught:

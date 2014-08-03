@@ -7,7 +7,7 @@ sponsor: "Shlomo and Sharona Katz <br> on the engagement of <br> our son Eliezer
 learning: "Mishnah: Avot 1:6-7<br> Daf Yomi (Bavli): Yoma 15<br> Halachah: Mishnah Berurah 315:11-13"
 volume: 28
 issue: 9
-pdf: 
+pdf: "Vayeisheiv 5774.pdf"
 ---
 
  Last week's parashah ended with a list of Esav's descendants and their family groupings. Our parashah opens (37:1): "Yaakov settled in the land of his father's sojournings, in the land of Canaan." Rashi writes: "After the Torah has described the settlements of Esav and his descendants in a brief manner . . . it explains clearly and at length the settlements made by Yaakov and his descendants and all the events which brought these about, because these are regarded by the Omnipresent as of sufficient importance to speak of them at length. Thus, too, you will find that in the case of the ten generations from Adam to Noach it states, &lsquo;So and so fathered so and so,' but when it reaches Noach it deals with him at length; Similarly, of the ten generations from Noach to Avraham it gives but a brief account, but when it comes to Avraham it speaks of him more fully. This may be compared to the case of a jewel that falls into the sand; a man searches in the sand, sifts it in a sieve until he finds the jewel; when he has found the jewel, he throws away the pebbles and keeps the jewel."

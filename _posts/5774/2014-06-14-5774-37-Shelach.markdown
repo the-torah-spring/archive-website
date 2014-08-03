@@ -7,7 +7,7 @@ sponsor: "Mr. & Mrs. Jacob S. Edeson <br>in honor of their 52nd wedding annivers
 learning: "Mishnah: Bechorot 2:9-3:1<br>Daf Yomi (Bavli): Ta'anit 3<br>Halachah: Mishnah Berurah 396:2-397:2"
 volume: 28
 issue: 37
-pdf: 
+pdf: "Shelach 5774.pdf"
 ---
 
 Our parashah relates how Moshe sent Spies and they brought back a bad report. We read (13:31), "But the men who had ascended with him said, *`We cannot ascend* to that people for it is too strong for us!'"

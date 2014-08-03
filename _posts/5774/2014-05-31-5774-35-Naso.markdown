@@ -7,7 +7,7 @@ sponsor: "the Katz family <br>on the yahrzeits of <br>Avigdor Moshe ben Avraham 
 learning: "Mishnah: Chullin 9:7-8<br>Daf Yomi (Bavli): Rosh Hashanah 23<br>Halachah: Mishnah Berurah 382:18-20"
 volume: 28
 issue: 35
-pdf: 
+pdf: "Naso 5774.pdf"
 ---
 
 It is customary to study one chapter of Pirkei Avot on each Shabbat between Pesach and Shavuot. This week's chapter, the sixth and final one, begins: "Our Sages taught in the style of the mishnah; blessed is He who has chosen them and their mishnah."

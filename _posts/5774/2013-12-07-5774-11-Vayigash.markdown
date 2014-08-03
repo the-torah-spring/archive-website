@@ -7,7 +7,7 @@ sponsor: "Milton Cahn <br>in memory of his mother, Abby Cahn <br>(Bracha bat Mos
 learning: "Mishnah: Avot 2:16-3:1<br>Daf Yomi (Bavli): Yoma 29<br>Halachah: Mishnah Berurah 319:2-4"
 volume: 28
 issue: 11
-pdf: 
+pdf: "Vayigash 5774.pdf"
 ---
 
 In this week's parashah, Bnei Yisrael begin their first exile. R' Joseph B. Soloveitchik z"l (1903-1993) observes that the Jewish People had two trailblazers who prepared the way for their sojourn in a diaspora -- Yaakov and Yosef. Each in his own time was sent to prove that it was possible to live in exile yet adhere to the ideals and teachings of Avraham and Yitzchak. In Yaakov's case, his mission was to prove that Torah can be practiced amidst poverty and oppression. In Yosef's case, his mission was to demonstrate that Torah can be lived amidst success, riches, prominence and power. Also, Yaakov was tested in a backward pastoral country, while Yosef was tested in the wealthiest, most civilized country of the time.

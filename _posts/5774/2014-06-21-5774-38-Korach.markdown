@@ -7,7 +7,7 @@ sponsor: "Shlomo & Sharona Katz and family <br>in honor of the 50th wedding anni
 learning: "Mishnah: Bechorot 4:10-5:1<br>Daf Yomi (Bavli): Ta'anit 10<br>Halachah: Mishnah Berurah 398:3-5"
 volume: 28
 issue: 38
-pdf: 
+pdf: "Korach 5774.pdf"
 ---
 
 In this week's parashah, we read of Korach's rebellion. What was Korach, who our Sages say was a wise man, thinking, and what brought about his downfall?

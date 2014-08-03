@@ -7,6 +7,7 @@ sponsor:
 learning: "Mishnah: Bechorot 1:2-3<br>Daf Yomi (Bavli): Rosh Hashanah 30<br>Halachah: Mishnah Berurah 389:1-390:2"
 volume: 28
 issue: 36
+pdf: "Be'ha'alotecha 5774.pdf"
 ---
 
 King Shlomo writes in Mishlei (13:9), "The light of the righteous will rejoice, but the lamp of the wicked will flicker out." Rabbeinu Bachya ben Asher z"l (Spain; 14th century) explains: King Shlomo compares the soul of a tzaddik to light because the soul, like the concept "light," is eternal and is independent of the life-span of the tzaddik's body. In contrast, the soul of a rasha is like the light of a lamp; when the candle or wick is snuffed out, the light is gone. So, too, when the rasha's body dies, nothing remains of him.

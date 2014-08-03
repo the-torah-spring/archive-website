@@ -7,6 +7,7 @@ sponsor: "the Parness family <br> in memory of Max Parness a\"h"
 learning: "Mishnah: Eduyot 8:7-Avodah Zarah 1:1<br> Daf Yomi (Bavli): Shekalim 8<br> Halachah: Mishnah Berurah 308:34-36"
 volume: 28
 issue: 5
+pdf: "Chayei Sarah 5774.pdf"
 ---
 
  R' Avraham Shalom Halberstam shlita (the Stropkover Rebbe in Yerushalayim) observes that there are two parashot in the Torah that have the word "life" in their names--our parashah, Chayei Sarah, and Vayechi-- and they both have death as one of their main subjects. He explains:

@@ -7,6 +7,7 @@ sponsor: "Aaron and Rona Lerner <br>in memory of their fathers <br>Avraham ben Y
 learning: "Mishnah: Menachot 9:7-8<br>Daf Yomi (Bavli): Beitzah 13<br>Halachah: Mishnah Berurah 363:7-9"
 volume: 28
 issue: 29
+pdf: "Acharei 5774.pdf"
 ---
 
 Much of this week's parashah is devoted to describing the sacrificial service that the Kohen Gadol was required to perform whenever he entered the Holy of Holies. The Torah says (Vayikra 16:2), "He shall not come at all times into the Sanctuary . . ." Why not?

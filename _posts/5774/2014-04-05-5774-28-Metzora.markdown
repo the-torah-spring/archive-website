@@ -7,7 +7,7 @@ sponsor: "Nathan and Rikki Lewin <br>in memory of her father, <br>Harav Eliyahu 
 learning: "Mishnah: Menachot 7:6-8<br>Daf Yomi (Bavli): Beitzah 6<br>Halachah: Mishnah Berurah 360:3-361:2"
 volume: 28
 issue: 28
-pdf: 
+pdf: "Metzora 5774.pdf"
 ---
 
 This week's parashah continues the laws of tzara'at that were begun last week. But, while last week's parashah presented the laws of tzara'at that appears on one's body or clothing, our parashah discusses tzara'at that appears on one's house. We read (14:34-35), "When you arrive in the land of Canaan that I give you as a possession, and I will place a tzara'at affliction upon a house in the land of your possession. The one to whom the house belongs shall come and declare to the kohen, saying, `Something like an affliction has appeared to me in the house'."

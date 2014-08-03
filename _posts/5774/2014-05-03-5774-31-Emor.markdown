@@ -7,7 +7,7 @@ sponsor: "Howard Benn <br>in observance of the 30th yahrzeit <br>of his uncle an
 learning: "Mishnah: Chullin 1:6-7<br>Daf Yomi (Bavli): Beitzah 34<br>Halachah: Mishnah Berurah 368:5-370:1"
 volume: 28
 issue: 31
-pdf: 
+pdf: "Emor 5774.pdf"
 ---
 
 A large portion of this week's parashah is devoted to the holy days: Shabbat, Pesach, Shavuot, Rosh Hashanah, Yom Ha'kippurim and Sukkot. Regarding the latter, our parashah says (23:40), "You shall take for yourselves on the first day the fruit of a citron tree \[i.e., an etrog\], the branches of date palms \[a lulav\], twig of a plaited tree \[hadassim\], and brook willows \[aravot\]; and you shall rejoice before Hashem, your Elokim, for a seven-day period." From this verse, our Sages derived that taking a lulav and etrog is a mitzvah from the Torah only on the first day of Sukkot, except "before Hashem"--i.e., in the Bet Hamikdash--where it is a mitzvah for all seven days of Sukkot. (However, our Sages ordained that it should be taken every day of Sukkot, except Shabbat, even outside of the Bet Hamikdash.)

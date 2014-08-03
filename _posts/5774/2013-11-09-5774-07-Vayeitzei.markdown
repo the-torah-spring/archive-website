@@ -7,7 +7,7 @@ sponsor: "Robert and Hannah Klein <br> on the yahrzeit of his mother <br> Doroth
 learning: "Mishnah: Avodah Zarah 4:2-3<br> Daf Yomi (Bavli): Shekalim 22<br> Begin Masechet Yoma on Sunday<br> Halachah: Mishnah Berurah 312:1-3"
 volume: 28
 issue: 7
-pdf: 
+pdf: "Vayeitzei 5774.pdf"
 ---
 
 Rabbeinu Nissim z"l ("Ran"; Spain; 1290-1375) finds a number of lessons in this parashah, in which Yaakov leaves Eretz Yisrael and then returns to it, regarding the uniqueness of the Land.

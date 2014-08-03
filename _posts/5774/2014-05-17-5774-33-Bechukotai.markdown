@@ -7,6 +7,7 @@ sponsor: "the Rutstein family <br>in memory of father Mendy Rutstein <br>(Menach
 learning: "Mishnah: Chullin 5:3-4<br>Daf Yomi (Bavli): Rosh Hashanah 9<br>Halachah: Mishnah Berurah 375:3-376:1"
 volume: 28
 issue: 33
+pdf: "Bechukotai 5774.pdf"
 ---
 
 This week's parashah completes the book of Vayikra. R' Moshe ben Yosef Tirani z"l (the "Mabit"; Greece and Eretz Yisrael; 1505-1585) observes that Vayikra has more mitzvot than any other book: 241. Devarim is next, with 200. A mnemonic with which to remember this is "emet" (aleph-mem- tav) whose gematria is 441 (=200+241). The other three books contain 172 mitzvot, which can be remembered by the mnemonic, "eikev" (ayin-kuf-bet).

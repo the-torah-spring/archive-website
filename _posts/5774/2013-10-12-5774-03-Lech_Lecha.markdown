@@ -7,7 +7,7 @@ sponsor: "Harold and Gilla Saltzman <br> on the yahrtzeit of his mother <br> Reb
 learning: "Mishnah: Eduyot 4:10-11<br> Daf Yomi (Bavli): Pesachim 114<br> Halachah: Mishnah Berurah 307:15-15"
 volume: 28
 issue: 3
-pdf: 
+pdf: "Lech Lecha 5774.pdf"
 ---
 
  We learn in Pirkei Avot (ch.5), "There were ten generations from Noach until Avraham. This teaches how patient Hashem is, for they all angered Him continuously until Avraham Avinu came and received the reward of all of them." Commentaries ask: What about Noach, his son, Shem, and the latter's great-grandson, Ever, all of whom were righteous?

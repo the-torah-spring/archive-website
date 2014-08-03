@@ -7,6 +7,7 @@ sponsor: "Dr. and Mrs. Irving Katz <br>on the yahrzeit of his mother <br>Sarah b
 learning: "Mishnah: Bechorot 8:3-4<br>Daf Yomi (Bavli): Ta'anit 24<br>Halachah: Mishnah Berurah 409:1-3"
 volume: 28
 issue: 40
+pdf: "Balak 5774.pdf"
 ---
 
 In this week's parashah, we read how Bilam tried to curse Bnei Yisrael.  Pirkei Avot (ch.5) teaches that evil-doers like Bilam do not live out "half their days," as the verse (Tehilim 55:24), "Men of bloodshed and deceit shall not live out half their days."  We also find that our Sages refer to old age as "length of days."  Sometimes, a tzaddik's life is referred to as "days," while the evil-doer's life is referred to as "years," as in Mishlei (10:27), "Fear of G-d will add days, while the years of the wicked will be shortened."  Why do we speak of "days" ratherthan "years" when discussing the length of a person's life, especially a tzaddik's life?

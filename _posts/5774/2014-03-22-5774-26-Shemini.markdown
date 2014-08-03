@@ -7,7 +7,7 @@ sponsor: "Eli, Rachel Adina, Daniel Avraham, <br>Yonatan and Chana Rutstein <br>
 learning: "Mishnah: Menachot 3:6-7<br>Daf Yomi (Bavli): Sukkah 47<br>Halachah: Mishnah Berurah 349:2-4"
 volume: 28
 issue: 26
-pdf: 
+pdf: "Shemini 5774.pdf"
 ---
 
 A significant part of this week's parashah is devoted to listing or describing the animals, birds and fish which are or are not kosher. The parashah concludes: "To distinguish between the contaminated and the pure, and between the living thing that may be consumed and the living thing that may not be consumed." R' Moshe Yehoshua Hager z"l (1916-2012; Vizhnitzer Rebbe) asks: For the sake of parallelism, shouldn't the second half of the verse have been reversed--"the living thing that may not be consumed" paralleling "contaminated" and "the living thing that may be consumed" paralleling "pure"? \[As written, the pasuk seems to have the pattern A-B-B-A instead of A-B-A-B.\]

@@ -7,6 +7,7 @@ sponsor: "Martin and Michelle Swartz <br>on the yahrzeit of <br>Martin's grandmo
 learning: "Mishnah: Avot 5:16-17<br>Daf Yomi (Bavli): Yoma 57<br>Halachah: Mishnah Berurah 324:14-325:1"
 volume: 28
 issue: 15
+pdf: "Bo 5774.pdf"
 ---
 
 King Shlomo writes in Mishlei (28:14), "Ashrei adam / Praiseworthy is the man who always fears, but he who is stubborn of heart will fall into misfortune." Rabbeinu Bachya ben Asher z"l (14th century; Spain) writes: King Shlomo is instructing in this verse that a person should have a "soft heart" (i.e., the opposite of being stubborn). One should always fear that his deeds and actions are not up to the standard they should be, and he should introspect regarding where his deeds will lead him.

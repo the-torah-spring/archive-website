@@ -7,7 +7,7 @@ sponsor: "Elaine and Jerry Taragin <br>in memory of their parents <br>Asriel & S
 learning: "Mishnah: Zevachim 11:5-6<br>Daf Yomi (Bavli): Sukkah 26<br>Halachah: Mishnah Berurah 337:3-338:1"
 volume: 28
 issue: 23
-pdf: 
+pdf: "Pekudei 5774.pdf"
 ---
 
 In this week's parashah, the construction of the Mishkan is completed. The parashah opens: "These are the accountings of the Mishkan, the Mishkan of Testimony, which were reckoned at Moshe's bidding." The Sages say that the accounting was actually taken from Moshe! Why, asks R' Moshe Gruenwald z"l (died 1853-1911; rabbi of Khust, Hungary), was an accounting required from Moshe? We read about the workers in the first Bet Hamikdash (Melachim II 12:16-the haftarah for Parashat Shekalim, which is read this week), "They did not make an accounting with the men into whose hands they gave the money to pay out to the workmen, for they acted with emunah / integrity."

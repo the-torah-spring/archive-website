@@ -7,7 +7,7 @@ sponsor: "the Dimont family, <br>in memory of mother and grandmother <br>Mrs. Ch
 learning: "Mishnah: Zevachim 13:5-6<br>Daf Yomi (Bavli): Sukkah 33<br>Halachah: Mishnah Berurah 340:5-7"
 volume: 28
 issue: 24
-pdf: 
+pdf: "Vayikra 5774.pdf"
 ---
 
 R' Yitzchak Abarbanel z"l (1437-1508; Portugal, Spain and Italy) introduces the Book of Vayikra as follows: The first book of the Torah of Elokim writes about the creation of the world; the branching out of the early generations; and the affairs of the holy Patriarchs, until Yaakov descended to Egypt. The second book tells how the Egyptians mistreated our ancestors; how Hashem redeemed them through His agents Moshe and Aharon; the miracles that He did in Egypt, at the Sea, and in the desert, until they arrived at Har Sinai, where they all attained the level of prophets and received the Torah and mitzvot from the Mouth of the All- Powerful One; how they sinned with the Golden Calf and then were forgiven; and how they made the Mishkan so that the Divine Shechinah and Hashem's Hashgachah / Providence would rest on them, as they saw on the day when the Mishkan was assembled (at the end of last week's parashah), "The cloud covered the Ohel Mo'ed, and the glory of Hashem filled the Mishkan."

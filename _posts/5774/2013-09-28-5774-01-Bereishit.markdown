@@ -7,6 +7,7 @@ sponsor: "the Parness family <br> in memory of Anna Parness a\"h"
 learning: "Mishnah: Eduyuot 2:4-5<br> Daf Yomi (Bavli): Pesachim 100<br> Halachah: Mishnah Berurah 305:9-11"
 volume: 28
 issue: 1
+pdf: "Bereishit 5774.pdf"
 ---
 
 *With gratitude to Hashem, we now begin  the 28th cycle of Hamaayan / The Torah Spring.  Thank you to our readers for your continued support.*

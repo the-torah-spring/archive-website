@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Menachot 1:1-2<br>Begin Masechet Menachot today. Interestingly, this is the tractate Mordechai Ha'tzaddik was learning when Haman came to lead him around town on horseback (Megillah 16a)<br>Daf Yomi (Bavli): Sukkah 40<br>Halachah: Mishnah Berurah 345:4-7"
 volume: 28
 issue: 25
-pdf: 
+pdf: "Tzav 5774.pdf"
 ---
 
 This Shabbat, we look forward to the arrival of the joy of Purim, which will then give way to the season of Pesach. Rashi z"l states (in his commentary to Ta'anit 29a) that the famous expression, "When the month of Adar arrives, we increase our joy," refers not only to the joy of Purim, but also to Pesach. Indeed, just as we read in Megillat Esther (8:16), "The Jews had light and sasson / gladness and simcha / joy . . . ," so we recite in kiddush on the night of Pesach that Hashem has given us the festivals for "simcha and sasson."

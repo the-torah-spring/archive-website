@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Avot 2:2-3<br> Daf Yomi (Bavli): Yoma 22<br> Halachah: Mishnah Berurah 317:7-318:1"
 volume: 28
 issue: 10
-pdf: 
+pdf: "Mikeitz 5774.pdf"
 ---
 
  R' Yehuda Loewe z"l (Maharal of Prague; died 1609) asks: Why did Chazal see fit to establish a new holiday (Chanukah) to thank Hashem for our being able to light the menorah in the Bet Hamikdash? We can understand making a holiday to thank Hashem for our personal salvation, but why should we thank Hashem for letting us perform mitzvot?

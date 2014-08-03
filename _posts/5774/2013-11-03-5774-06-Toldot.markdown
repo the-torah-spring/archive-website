@@ -7,7 +7,7 @@ sponsor: "Mr. & Mrs. Howard Benn <br> on the yahrzeit of his father <br> David B
 learning: "Mishnah: Avodah Zarah 2:5-6<br> Daf Yomi (Bavli): Shekalim 15<br> Halachah: Mishnah Berurah 309:3-5"
 volume: 28
 issue: 6
-pdf: 
+pdf: "Toldot 5774.pdf"
 ---
 
  In this parashah, we read about the relationship of Yitzchak to his children, Yaakov and Esav. The Torah relates (25:28), "Yitzchak loved Esav, for game was in his mouth." How could a great tzaddik such as Yitzchak, from whom the Shechinah did not depart for a moment, love a completely wicked person such as Esav?

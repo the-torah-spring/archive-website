@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Avot 3:14-15<br>Daf Yomi (Bavli): Yoma 36<br>Halachah: Mishnah Berurah 320:6-8"
 volume: 28
 issue: 12
-pdf: 
+pdf: "Vayechi 5774.pdf"
 ---
 
 The Midrash Tanchuma on our parashah opens by connecting the verse (47:29), "The days approached for Yisrael \[Yaakov\] to die," with the verse (Divrei Ha'yamim I 29:15), "For we are like sojourners before You and like temporary residents, as were all our forefathers-- our days on earth are like a shadow, and there is no hope \[to escape death\]." Says the midrash: "Our days on earth are like a shadow"--if only our lives were like the shadow of a wall or a tree \[which has some permanence\]; but, they are not- -rather, they are like the shadow of a flying bird. "There is no hope"-- everyone knows and even acknowledges that he is destined to die. Avraham said (Bereishit 15:2), "I will die childless." Yitzchak said (27:4), "So that my soul may bless you before I die." Yaakov also said (47:30), "I will lie down with my fathers." Therefore, concludes the midrash, the verse says, "The days approached for Yisrael to die."

@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Zevachim 6:3-4<br>Daf Yomi (Bavli): Sukkah 5<br>Halachah: Mishnah Berurah 331:2-4"
 volume: 28
 issue: 20
-pdf: 
+pdf: "Tetzaveh 5774.pdf"
 ---
 
 A significant part of this parashah is devoted to the selection of Aharon as the Kohen Gadol and the design of the priestly garments. A midrash says that when Hashem commanded Moshe to select Aharon, Moshe felt sad. Hashem told him, "I had a Torah and I gave it to you. If not for that Torah, I would destroy My world."

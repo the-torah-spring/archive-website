@@ -7,6 +7,7 @@ sponsor: "the Marwick family <br>in memory of <br>Bervin and Swolsky family memb
 learning: "Mishnah: Chullin 3:3-4<br>Daf Yomi (Bavli): Rosh Hashanah 2<br>Begin Masechet Rosh Hashanah on Shabbat<br>Halachah: Mishnah Berurah 372:6-8"
 volume: 28
 issue: 32
+pdf: "Behar 5774.pdf"
 ---
 
 This parashah opens: "Hashem spoke to Moshe on Har Sinai, saying, `. . . When you come into the land that I give to you, the land shall observe a Sabbath rest for Hashem. For six years you shall sow your field . . .'" Chazal (quoted by Rashi) ask: Why does the Torah mention that the laws of shemittah were given at Sinai? To teach that just as every detail of shemittah's laws was given at Sinai, so every detail of the Torah was given at Sinai.

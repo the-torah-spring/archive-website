@@ -7,6 +7,7 @@ sponsor: "Irving and Arline Katz <br>on the yahrzeit of <br>grandmother Henia Ra
 learning: "Mishnah: Avot 6:7-8<br>Daf Yomi (Bavli): Yoma 64<br>Halachah: Mishnah Berurah 326:4-6"
 volume: 28
 issue: 16
+pdf: "Beshalach 5774.pdf"
 ---
 
 Our parashah relates (15:1), "Then Moshe and Bnei Yisrael sang this song to Hashem . . ." The midrash comments: "From the day the world was created until that day (`then'), no man sang a song to Hashem. He created Adam, but Adam did not sing. He rescued Avraham from the fiery furnace and from the Four Kings, but Avraham did not sing. He saved Yitzchak from the slaughtering knife, but Yitzchak did not sing. He saved Yaakov from the angel, from Esav and from the people of Shechem, but Yaakov did not sing. When Bnei Yisrael came to the sea and it split for them, immediately they sang."

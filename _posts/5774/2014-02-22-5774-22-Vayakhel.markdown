@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Zevachim 9:6-7<br>Daf Yomi (Bavli): Sukkah 19<br>Halachah: Mishnah Berurah 334:27-335:2"
 volume: 28
 issue: 22
-pdf: 
+pdf: "Vayakhel 5774.pdf"
 ---
 
 The overwhelming majority of our parashah describes the construction of the mishkan, but the parashah opens with the mitzvah of Shabbat. Rashi z"l writes that this teaches us that building the mishkan does not supersede Shabbat observance.

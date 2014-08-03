@@ -7,7 +7,7 @@ sponsor:
 learning: "Mishnah: Zevachim 8:4-5<br>Daf Yomi (Bavli): Sukkah 12<br>Halachah: Mishnah Berurah 334:6-8"
 volume: 28
 issue: 21
-pdf: 
+pdf: "Ki Tissa 5774.pdf"
 ---
 
 The Midrash Rabbah on this week's parashah opens by citing the verse from which the parashah takes its name: "Ki tissa" / "When you take a census of Bnei Yisrael . . ." The midrash comments: Hashem said to Moshe, "Tell Bnei Yisrael that they have a debt they owe me, as it is written (Devarim 24:10), `Ki tasheh' / `When you make your fellow a loan . . .' \[The midrash is making a play on the similarity between "tissa" (tav-sin-aleph) and "tasheh" (tav-shin-heh).\] Tell them that they should repay me."
