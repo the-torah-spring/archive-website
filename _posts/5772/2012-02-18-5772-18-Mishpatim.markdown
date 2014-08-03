@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Mishpatim 5772 - &ldquo;A Divine Law&rdquo;"
+date: "2012-02-18"
+author: skatz
+sponsor: "Mr. and Mrs. Jules Meisler <br> in memory of Jules' mother Anne Meisler a\"h <br> and sister Gladys Citrino a\"h <br>&nbsp;&nbsp;&nbsp;<br>Elaine and Jerry Taragin <br> on the yahrzeits of <br> Mrs. Shirley Taragin a\"h, <br> Mr. Irving Rivkin a\"h, <br> and Mrs. Frances Rivkin a\"h <br>&nbsp;&nbsp;&nbsp;<br>Dr. and Mrs. Robert Klein <br> on the yahrzeit of his father, <br> Meyer ben Kalman (Milton Klein) a\"h"
+learning: "Tanach: Yirmiyah 31-32<br> Mishnah: Rosh Hashanah 1:2-3<br> Daf Yomi (Bavli): Temurah 3<br> Daf Yomi (Yerushalmi): Shekalim 4<br> Halachah Yomit: Orach Chaim 11:10-12"
+volume: 26
+issue: 18
+pdf: "Mishpatim 5772.pdf"
+---
+
+Our parashah is the primary source of the mishpatim / civil (monetary) laws of the Torah. Based on the opening verse, "These are the mishpatim that you shall place before them," our Sages taught (as phrased by Rashi z"l), "&lsquo;Before them' - Not before the gentiles. Even if you know that in the case of a particular matter of law a secular court will decide it in the same way as Jewish law would, do not bring it before their courts, for one who brings litigation between Jews before the gentiles defames the Name of the G-d."
+
+R' Shlomo Kluger z"l (1785-1869; rabbi of Brody, Galicia) elaborates: King David writes (Tehilim 119:102), "From your mishpatim I did not turn aside, You have taught me." R' Kluger explains: There are two reason to admire the mishpatim--first, because they are inherently good, and second, because they are G-d's laws. King David said, "From your mishpatim I did not turn aside"--because they are inherently worthy of my attention, and furthermore--"You have taught me."
+
+What are the practical implications of King David's words? R' Kluger writes: If Jews would judge, but would apply secular law, they would not fulfill the command of our verse. G-d would be there, because He is among the Jewish People, but His laws would be absent. On the other hand, if secular court would judge Jews, even if the outcome would be the same as in a bet din, our verse also would not be fulfilled. G-d's laws would be present, but He would be absent. Therefore our parashah teaches, "These are the mishpatim that you shall place before them"--the Torah insists both on a bet din and on application of the mishpatim. (Chochmat Shlomo Vol. 18, p.3)
+
+********
+
+"If the eved / slave says, &lsquo;I love my master . . . ; I shall not go free." Then his master shall bring him to the court and shall bring him to the door or to the doorpost, and his master shall bore through his ear with the awl, and he shall serve him forever." (21:5)
+
+Rashi z"l quotes the midrash Mechilta: Why is the ear pierced rather than any other limb of the servant's body? Rabban Yochanan ben Zakkai said: The ear which heard on Har Sinai, "You shall not steal," yet its owner went and stole and was therefore sold as an eved, should be pierced! Or, in the case of one who sold himself because of destitution, but did not steal, the reason is: The ear which heard Me say on Har Sinai, "To Me Bnei Yisrael are servants," yet its owner went and procured another master for himself, should be pierced!
+
+R' Pinchas Halevi Ish Horowitz z"l (1731-1805; rabbi of Frankfurt, Germany, Talmud commentator, and early adherent of the chassidic movement) asks: Given the reasons cited by Rashi for piercing the eved's ear, why do we wait until he has served six years and refuses to go free? Why do we not pierce his ear when he is first sold, since he has already transgressed the commandments mentioned by Rashi?
+
+He answers: There is a halachic principle that one does not receive a corporal punishment and pay monetary damages for the same crime ("Ein lokeh um'shaleim"). Thus, once this man is sold as an eved for his theft, we can't also pierce his ear. But, if, after six years of slavery, he says that he wants to remain in the master's house, he is declaring in effect that being sold as an eved was not a punishment. Therefore, we are now free to pierce his ear for the reason quoted by Rashi.
+
+Alternatively, R' Horowitz explains, the eved is not punished for his original theft or his original sale of himself since those acts were motivated by starvation. However, when the eved refuses to go free, we presume that he repeated his sin of stealing while he was an eved and he now reasons, "If I go free, I will be arrested again and sold to a worse master. I am better off remaining with my current master, who is kind." This second theft is not excusable, since he committed it while he had a master who was responsible for feeding him and his family. Therefore, now he deserves to have his ear pierced. (Panim Yafot)
+
+********
+
+"If one man's ox shall strike his fellow's ox . . ." (21:35)
+
+The first mishnah in Masechet Bava Kamma teaches: There are four primary categories of things that cause damage -- shor / an ox, bor / a pit, mav'eh / an animal's teeth, and hev'er / fire. Each category has unique laws as to the circumstances under which the owner of the nuisance is liable.
+
+R' Dov Ber z"l (the Maggid of Mezeritch, the successor to the Ba'al Shem Tov; died 1772) explains this mishnah in an allegorical fashion as referring to four significant human faults:
+
+"Shor" is related to "ashurenu" / "I shall look at him" (Bemidbar 24:17). This refers to the damage a person inflicts on his soul by letting his eyes wander.
+
+"Bor" is related to "sde bur" / an unplowed or barren field. This alludes to a person who does not study Torah; therefore, he cannot grow.
+
+"Mav'eh" / "tooth" refers to eating too much, which is harmful to the soul.
+
+Finally, "hev'er" / "fire" refers to anger. (Tzava'at Ha'Rivash no.121)
+
+********
+
+"In the seventh \[year\], you shall leave \[the land\] untended . . . Six days shall you accomplish your activities, and on the seventh day you shall desist." (23:11-12)
+
+R' David ben Shmuel Ha'kochavi z"l (Spain and France; 13th-14th centuries) writes: The idea of shemittah and yovel, it seems to me, is to strengthen belief in Creation. This is the idea, as well, of the sanctity of the seventh day (Shabbat), the day following the Seven Weeks (Shavuot), and the seventh month (Tishrei, which includes Rosh Hashanah, the Days of Repentance, Yom Kippur and Sukkot). How so?
+
+Rambam z"l writes that the number seven recurs frequently in nature \[see Moreh Nevochim / Guide to the Perplexed III, ch.43 and commentaries there\]. He writes further that the Torah elevates nature, which is inherently incapable of elevating itself, as it has no intelligence. R' Ha'kochavi explains further that when Bnei Yisrael left Egypt, they were plagued by heretical beliefs in the power of nature which prevented them from receiving the Torah immediately. \[One of the purposes of the Ten Plagues was to convince mankind of G-d's supremacy over the forces of nature.\] Until Bnei Yisrael had been cleansed of their prior heretical beliefs for seven weeks and replaced those beliefs with strong faith in G- d as the All Powerful Creator, they could not receive the Torah.
+
+As for letting the land rest in the seventh year, this directly parallels the observance of Shabbat, which itself testifies to Creation. Just as a believer does not work on one day out of seven, instead trusting in Hashem to sustain him, so he does not work (the land) during one year out of seven. (Sefer Ha'batim - Migdal David: Sefer Mitzvah, No.130)
+
+********
+
+"He took the Book of the Covenant and read it in the ears of the people, and they said, &lsquo;Everything that Hashem has said, na'aseh v'nishmah / we will do and we will listen!' " (24:7)
+
+In the zemer "Yom Shabbaton," we sing, "Then they all joined together in a covenant - &lsquo;Na'aseh v'nishmah,' they said as one." R' Aharon Rokeach z"l (1880-1957; Belzer Rebbe) explains: G-d created boundaries in His world--a kohen cannot be a levi, a levi cannot be a kohen, and a yisrael cannot be either. But, through Torah, one can achieve all of these levels. Specifically, because the Jewish People said "Na'aseh v'nishmah" and agreed collectively to observe the entire Torah, they formed a covenant through which everyone is considered a partner in the fulfillment of everyone else's mitzvot.
+
+R' Yissachar Dov Rokeach z"l (1851-1926; R' Aharon's father and predecessor as Belzer Rebbe) expresses a related thought in connection with the verse (Bemidbar 16:10) in which Moshe Rabbeinu says to the rebellious Korach, "He drew you near, and all your brethren, the offspring of Levi, with you--yet you seek priesthood, as well!" The Midrash Rabbah interprets Moshe's statement to mean: "You wish to be a kohen? I also wish to be a kohen!" \[How could Moshe say such a thing, which appears to question G-d's judgment?\] Moshe meant: Although neither of us is a kohen, we both can fulfill the mitzvot of the priesthood in thought by wanting to perform those commandments. Hashem, Who gives credit for good thoughts when a person is prevented, through no fault of his own, from translating his thought into deed, will view this as if the person performed the mitzvot in deed as well. (Quoted in Orchot Rabboteinu p.24)
+
+********
+
+Letters from Our Sages
+
+This letter was written by R' Akiva Ginz z"l (1761-1837; better known as Rabbi Akiva Eiger;) in 1814 to his son-in-law, R' Moshe Sofer z"l (1762-1839; the Chatam Sofer), and daughter Seral a"h (1787-1732). The letter (Igrot Rabbi Akiva Eiger, no.13), illustrates the humility of one of the greatest Torah sages of the last 250 years.
+
+Shalom and blessings to my honorable son-in-law, my friend, very beloved like my own soul, the rabbi and great genius who is widely known, ner Yisrael, amud ha'yemini, patish he'chazak \[titles of honor; see Berachot 28b\], together with my daughter, the modest rebbetzin, Seral, may she live long, etc.
+
+Although I wrote to your honors recently, I want to let you know that I will imminently give a positive response to the holy community of Pozna \[i.e., Poznan, Poland\] that I will move there. In truth, the One Who Knows Secrets knows that I am aware in my soul that am unworthy to be the leader of foxes, let alone of lions \[a play on Sanhedrin 37a\]. My present \[rabbinic\] seat in Friedland is already much greater than my worth; how much more so the throne of Pozna. But, what can I do? I am out-voted by my teachers and friends, \[the rabbis of\] Lissa, Berlin and Rawicz, and the other communities near Pozna. They are strongly encouraging me and telling me that it is incumbent upon me to go and return \[Pozna's\] former glory and to increase the love of Torah there. Just as they strongly discouraged and prevented me from going to \[accept the rabbinate of his birthplace\] Eisenstadt \[which had been offered to him three years earlier\], now, to the contrary, they insist that I go to Pozna. Therefore, I very much ask of you, sir, my son-in-law, to mention me in your prayers, that Hashem should strengthen my ability to lead this large congregation, enlighten my eyes in His Torah, and cause me to find favor in the eyes of the people, so I will not be ashamed in this world or humiliated in the World-to-Come. May it support me like an iron staff, the fact that I rely on your power, sir, my son-in-law, to assist me with your prayers. \[Here the author wrote some divrei Torah.\] Now, to return to the first matter, \[I request\] that my son-in-law do this for the sake of his righteous wife, may she live, to remember me in his prayers.
+
+Your friend, your father, who wishes your peace with \[my\] heart and soul,
+
+Akiva Ginz from Eisenstadt
+

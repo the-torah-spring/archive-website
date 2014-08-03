@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Tzav 5772 - &ldquo;The story of Adam and adam&rdquo;"
+date: "2012-03-31"
+author: skatz
+sponsor: "Aaron and Rona Lerner <br> in memory of their fathers <br> Avraham ben Yaakov Hakohen a\"h <br> and Yaakov Yonah ben Yisrael a\"h <br>&nbsp;&nbsp;&nbsp;<br>Martin and Michelle Swartz <br> on the 10th yahrzeit of Martin's grandmother <br> Eva (nee Kalikow) Lichman a\"h (17 Nissan) <br>&nbsp;&nbsp;&nbsp;<br>The Neugroschl family <br> on the yahrzeit of <br> Genendel bat Yaakov v'Rachel a\"h (12 Nissan) <br>&nbsp;&nbsp;&nbsp;<br>William and Ruth Konick, on the yahrzeits of <br> Zvi Dov ben Avraham a\"h (Harry Sperling) <br> Mindel bat Zvi Dov a\"h (Mildred Klessmer)"
+learning: "Tanach: Hoshea 13-14<br> Mishnah: Megillah 2:6-3:1<br> Daf Yomi (Bavli): Keritot 12<br> Daf Yomi (Yerushalmi): Megillah 13<br> Halachah Yomit: Orach Chaim 32:42-44"
+volume: 26
+issue: 24
+pdf: "Tzav 5772.pdf"
+---
+
+Our parashah continues from last week's parashah, describing the Temple service. R' Yeshayah Halevi Horowitz z"l (the Shelah Ha'kadosh; died 1635) notes that the Book of Vayikra opens (after an introductory verse), "When an adam / man among you brings an offering to Hashem . . . ," and he explains that if Adam Ha'rishon had not sinned, there would have been no need for a separate holy place \[the mishkan or Temple\], no need for some people (i.e., kohanim) to be distinguished from others to serve Hashem, and no times that are holier than other times; rather, all times would have been equivalent to Shabbat. \[Please see the front page of last week's Hamaayan, where these ideas were expanded upon.\]
+
+The Shelah continues: This book, Vayikra, contains the consequences and the tikkun / antidote for Adam's sin. First, it includes the laws of the sacrifices which an adam / person can bring to atone for his sins. Next come the laws of tzara'at and other forms of impurity--all of which exist as a result of Adam's sin--and how to purify oneself from them. After that, it tells of the death of Aharon's sons, Nadav and Avihu, who allude to Adam Ha'rishon \[which the Shelah states he will explain at length in his commentary to that parashah\]. Next, we read of the Yom Kippur service, which is necessary because of Adam's sin. Following that comes Parashat Kedoshim, which speaks of man's ability to achieve a very lofty level of holiness. Next, the Torah describes the festivals and the shemittah / sabbatical and yovel / jubilee years, the sanctification of time which became necessary as a result of Adam's sin. Finally, Sefer Vayikra lists the blessings and curses, the ultimate consequence of doing or disregarding G-d's Will. (Shnei Luchot Ha'brit)
+
+********
+
+"The kohen shall don his fitted linen tunic, and he shall don linen pants on his flesh; he shall separate the ash of what the fire consumed of the olah / burnt-offering on the altar, and place it next to the altar. He shall remove his garments and don other garments, and he shall remove the ash to the outside of the camp, to a pure place." (6:3-4)
+
+Rashi z"l writes: Changing clothes is not compulsory; rather, it is a matter of derech eretz / decency so that he should not, when removing the ashes, soil the garments in which he regularly serves at the altar. By analogy, the clothes one wears when he boils the pot for his master \[a relatively menial task\] should not be the same clothes he wears when he pours a glass for his master \[a relatively honorable task\]. Therefore, the verse states, "He shall don other garments," i.e., garments inferior to those in which he serves at the altar.
+
+R' Menachem Mendel Schneerson z"l (1902-1994; Lubavitcher Rebbe) asks: If removing the ashes to outside the camp is considered a menial task compared to removing the ashes from the altar, why is it performed by the same kohen? Usually, cooks do not wait tables, but rather a different group of people perform each task!
+
+He answers: There are two lessons here. First, serving Hashem involves not only the mitzvah-act, but also the preparation for the mitzvah. Thus, for example, the Gemara (Ketubot 103b) relates that the sage Rabbi Chiya, not only taught Torah, he planted the flax to make into clothing for his students and he hunted animals whose hides he made into parchments for the Torah scrolls from which his students would study. When it comes to negating one's own will in favor of the Divine Will, there is no difference between the mitzvah itself and the preparation if they are both done for the sake of fulfilling His Will.
+
+Second, a person may not be only like the finely-dressed servant who waits on the table, i.e., he may not decide that he will influence only those Jews who are already "inside the Temple" (close to Torah), while leaving the work "outside the Temple" to another person. Rather, a person needs to learn how to "change his uniform" in order to reach more distant Jews. (Bei'urim Le'peirush Rashi)
+
+On the same subject . . .
+
+R' Elazar M. Shach z"l (1898-2001; rosh yeshiva of the Ponovezh Yeshiva in Bnei Brak) wrote to a yeshiva student in a letter dated 10 Adar 5736 \[1976\]:
+
+Regarding your question, it is understood that I cannot answer from a distance when I do not know you. Certainly the mashgiach / dean of students in your yeshiva knows you and your traits and can direct you precisely. In general, when a yeshiva student, who should be focusing on Torah study and fear of Heaven, engages in another activity--even a mitzvah--this necessarily will interfere with his growth. After you grow in learning and succeed and become a Torah scholar, then you will be able to influence others more than you can influence them now. In any case, it is difficult for me to write definitively and there are special cases where you know that you can make a difference, but these are the exceptions. (Michtavim U'ma'amarim Vol. I No.57)
+
+********
+
+"Eish tamid / A permanent fire shall remain aflame on the altar; lo tichbeh / it shall not be extinguished." (6:6)
+
+R' Moshe Yehoshua Hager z"l (1916-2012; the Vizhnitzer Rebbe) comments on this verse: If one's Shabbat table is imbued with the proper sense of holiness, joy, and attachment to Hashem, it can awaken his heart to better serve Hashem. We say in the zemer Kol Mekadeish, "To rest and to rejoice with the pleasure of eating and drinking." This refers to elevating the act of eating so it becomes an act of holiness. Even if one is pre- occupied all week with earning a living, at least on Shabbat, when he is free of distractions, he should elevate himself, through both his prayers and his meals.
+
+He continues: This is alluded to in our verse. The gematria of the initial and final letters of "Eish tamid" (aleph-shin-tav-dalet) is 705, which equals the gematria of Shabbat plus three, for the three letters of the Hebrew word Shabbat. This teaches that there should be a fire of holy enthusiasm at the Shabbat table and during the Shabbat prayers, both alluded to by the altar. \[The altar is like a table on which offerings are "served" to Hashem and it alludes to prayer, which is a substitute for the Temple service.\] If one does this, he will merit to feel, in the words of Tehilim (16:8), "I have placed Hashem before me tamid / always." As a result, "lo tichbeh / it shall not be extinguished." What will not be extinguished? The yearning of the nefesh / soul for closeness to Hashem. This is alluded to by the fact that the gematria of the initial letters of "lo tichbeh" (430) equals the gematria of "nefesh." (Sichot U'ma'amarei Kodesh 5732-5734 p.63)
+
+R' Shimshon David Pincus z"l (1944-2001; rabbi of Ofakim, Israel) cites the Talmud Yerushalmi (Yoma 4:6), which comments on our verse: "Even while traveling."
+
+Literally, the Yerushalmi is teaching that the fire on the altar should be kept burning even while Bnei Yisrael travel. In addition, R' Pincus writes, there is an important behavioral lesson here. Even people who attend minyan three times a day, keep strictly kosher, and study Torah every day sometimes become lax in their observance while traveling. Prayer with a minyan is sacrificed, Torah study is decreased or forgotten altogether, and even standards of kashrut may be lowered. Therefore our verse warns: Even while traveling, "A permanent fire shall remain aflame on the altar; it shall not be extinguished." (Tiferet Shimshon)
+
+********
+
+"With loaves of chametz / leavened bread he shall bring his offering, with his todah / thanksgiving-peace offering." (7:12- 13)
+
+The Midrash Rabbah teaches: "All sacrificial offerings will one day cease to exist, except for the todah." R' Yosef Gikatilla z"l (1248-1310; Spain) explains: Seemingly, the todah / thanksgiving offering is not associated with sin or atonement. Yet, the todah is the only personal sacrificial offering which is brought with loaves of chametz, which our Sages say represents the yetzer hara. The reason is that a todah is brought by a person who was in danger and was saved; such a person must understand that the danger to him was the result of some sin--perhaps an inadvertent sin, but a sin nevertheless.
+
+In the future, there will be no yetzer hara and no need for atonement offerings such as an olah, chatat or asham. Nevertheless, a person is not permitted to ever forget the sins of his past; rather, he must constantly repent for them. That is why the todah, the reminder of sins in the distant past, will never cease to exist. (Haggadah Shel Pesach Tzofnat Paneach p.9)
+
+********
+
+Pesach
+
+R' Yitzchak Isaac Chaver z"l (1789-1852; rabbi of Suvalk, Lithuania, and a prolific author in all areas of Torah study) writes:
+
+Retelling the story of the Exodus is the foundation of the Torah and the root of our avodah / service \[of Hashem\], for the story is the source of our faith in the existence of Hashem and our faith that He watches over the world; also, that He reigns in the heavens above and the earth below, that He supports all the creations above and below, and that His wondrous supervision does not depart from them for an instant, as we read (Nechemiah 9:6), "You give life to all of them." Likewise, the Pesach story teaches that the existence of the world depends on Torah and avodah; when these are present, they add "light, which is good" \[paraphrasing Bereishit 1:4\]. On the other hand, when Bnei Yisrael deviate from the path of Torah and mitzvot, the "light" of the King of Kings leaves them and they are destroyed in a moment. The root of everything is the belief in hashgachah pratit / that G-d watches over the details of existence. This is evident from the sequence of the exile to Egypt and the Exodus from there--He took a nation that was lowly and despised, persecuted through back-breaking labor, and He overturned the regular functioning of nature on their account and humbled nations' guardian angels in Heaven and kings on earth.
+
+R' Chaver adds: Hashem conducts the affairs of His world in two ways. One is analogous to the orderly functioning of a government, where the king issues decrees and delegates their implementation to lower officials \[i.e., angels\]. The second is the way He brought about the Exodus; disregarding formalities and taking a hands-on approach, so-to-speak. This latter mode is what our Sages refer to when they say the Exodus occurred "b'chipazon." (Haggadah Shel Pesach Yad Mitzrayim)
+
