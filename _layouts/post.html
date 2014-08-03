@@ -5,13 +5,13 @@ layout: default
 <div class="main-content">
 <article class="color3 module">
 <h1>{{ page.title }}</h1>
-{% if page.pdf and page.pdf != '' %}
-	<a href="{{ site.url }}/assets/pdf/{{ page.pdf }}">Download PDF</a>
+{% if page.has_pdf %}
+	<a href="{{ page.pdf_link }}">Download PDF</a>
 {% else %}
 	No PDF available
 {% endif %}
 <hr>
-<time>{{ page.date| date: "%m/%d/%Y" }}</time>
+<time>{{ page.date_string }}</time>
 <p>Volume {{ page.volume }}, No. {{ page.issue }}</p>
 <div id="article_meta" style="text-align: center;">
 <p>{{ page.sponsor }}</p>

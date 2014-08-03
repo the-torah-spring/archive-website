@@ -3,3 +3,9 @@ description: Hamaayan is prepared by laymen and published weekly for the edifica
 markdown: kramdown
 permalink: /:year/:title
 alert: We are in the process of moving the Hama'ayan archives to a new site. Thank you for your patience.
+
+file_loc: /assets/pdf/
+link_loc: /assets/pdf/
+
+gems:
+  - jekyll-sitemap
