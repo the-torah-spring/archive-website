@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Balak 5774 - &ldquo;Making the Most of Our Days&rdquo;"
-date: "5774-11-07"
+date: "2014-07-05"
 author: skatz
 sponsor: "Dr. and Mrs. Irving Katz <br>on the yahrzeit of his mother <br>Sarah bat Yitzchak Hakohen Katz a\"h <br>&nbsp;&nbsp;&nbsp;<br>Martin and Michelle Swartz <br>on the yahrzeit of <br>Martin's grandfather, John Hofmann a\"h <br>(12 Tammuz)"
 learning: "Mishnah: Bechorot 8:3-4<br>Daf Yomi (Bavli): Ta'anit 24<br>Halachah: Mishnah Berurah 409:1-3"

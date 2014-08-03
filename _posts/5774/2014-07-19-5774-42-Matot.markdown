@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matot 5774 - &ldquo;The Real Torah&rdquo;"
-date: "5774-11-21"
+date: "2014-07-19"
 author: skatz
 sponsor: "Sponsored by <br>the Marwick family <br>in memory of Abe & Helen Spector a&rdquo;h"
 learning: "Mishnah: Arachin 3:3-4<br>Daf Yomi (Bavli): Megilah 8<br>Halachah: Mishnah Berurah 422:3-5"

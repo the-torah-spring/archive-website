@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devarim 5774 - &ldquo;Table of Contents&rdquo;"
-date: "5774-12-06"
+date: "2014-08-02"
 author: skatz
 sponsor: "Sponsored by <br>Nathan and Rikki Lewin <br>in memory of his mother <br>Pessel bat Naftali Sternheim Lewin a&rdquo;h"
 learning: "Mishnah: Arachin 8:6-7<br>Daf Yomi (Bavli): Megilah 22<br>Halachah: Mishnah Berurah 433:10-434:1"
