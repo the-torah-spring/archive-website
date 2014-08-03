@@ -4,8 +4,13 @@ markdown: kramdown
 permalink: /:heb_year/:title
 alert: We are in the process of moving the Hama'ayan archives to a new site. Thank you for your patience.
 
-file_loc: /assets/pdf/
+file_loc: ../filestore/
 link_loc: /assets/pdf/
+
+analytics :
+    provider : google
+    google : 
+        tracking_id : 'UA-53433541-1'
 
 gems:
   - jekyll-sitemap
