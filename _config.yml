@@ -6,6 +6,8 @@ alert: We are in the process of moving the Hama'ayan archives to a new site. Tha
 
 url: http://thetorahspring.org
 
+paginate: 10
+
 file_loc: ../filestore/
 link_loc: /assets/pdf/
 

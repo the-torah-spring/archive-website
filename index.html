@@ -5,7 +5,7 @@ title: Hama'ayan - The Torah Spring
 
 <section class="main-content">
 
-    {% for post in site.posts limit:1  %}
+    {% for post in paginator.posts limit:1  %}
   <article class="module color3">
 
     <h2><a class="red" href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -26,7 +26,7 @@ title: Hama'ayan - The Torah Spring
 
     {% endfor %}
     <div class="all">
-{% for post in site.posts offset:1 %}
+{% for post in paginator.posts offset:1 %}
   <article class="module color3">
 
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -45,3 +45,29 @@ title: Hama'ayan - The Torah Spring
 
 {% endfor %}
         </div>
+	
+	<div class="pagination module color1">
+	{% if paginator.total_pages > 1 %}
+		{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+		{% else %}
+			<span>&laquo; Prev</span>
+		{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+				<em>{{ page }}</em>
+			{% elsif page == 1 %}
+				<a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+			{% else %}
+				<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+		{% else %}
+			<span>Next &raquo;</span>
+		{% endif %}
+	{% endif %}
+	</div>
