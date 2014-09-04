@@ -16,6 +16,10 @@ analytics :
     google : 
         tracking_id : 'UA-53433541-1'
 
+recaptcha:
+    public: 6LehufkSAAAAACouGd1WhowTv_NDaK1gi95v7DNL
+    private: 
+
 gems:
   - jekyll-sitemap
 

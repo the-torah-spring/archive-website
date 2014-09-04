@@ -4,17 +4,23 @@ title: Contact Us
 ---
 
 <section class="main-content">
-
-    <div class="all">
-  <article class="module color3">
-
-    <h2>Contact Us</h2>
-    <FORM METHOD="POST" ACTION="/cgi-bin/contact.cgi">
-    <INPUT TYPE="hidden" NAME="success" VALUE="{{ site.url }}/contact-thanks.html">
-Your e-mail address: <INPUT NAME="required-email"><p>
-Your name: <INPUT NAME="required-name"><p>
-Message:<br><textarea NAME="required-message"></textarea><p>
-<INPUT TYPE="submit" value="Send e-mail">
-</FORM>
-    </article>
-   </div>
+	<div class="all">
+		<article class="module color3">
+			<h2>Contact Us</h2>
+			<FORM METHOD="POST" ACTION="/cgi-bin/contact.cgi">
+			<p>Your e-mail address: <INPUT NAME="required-email"></p>
+			<p>Your name: <INPUT NAME="required-name"></p>
+			<p>Message:<br><textarea NAME="required-message"></textarea></p>
+			<p>
+				<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k={{ site.recaptcha.public }}"></script>
+				<noscript>
+					<iframe src="http://www.google.com/recaptcha/api/noscript?k={{ site.recaptcha.public }}" height="300" width="500" frameborder="0"></iframe>
+					<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+					<input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+				</noscript>
+			</p>
+			<p><INPUT TYPE="submit" value="Send e-mail"></p>
+			</FORM>
+		</article>
+	</div>
+</section>
