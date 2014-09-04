@@ -10,9 +10,10 @@ title: Contact Us
 
     <h2>Contact Us</h2>
     <FORM METHOD="POST" ACTION="/cgi-bin/contact.cgi">
-Your e-mail address: <INPUT NAME="email"><p>
-Your name: <INPUT NAME="yourname"><p>
-Message:<br><textarea NAME="colour"></textarea><p>
+    <INPUT TYPE="hidden" NAME="success" VALUE="{{ site.url }}/contact-thanks.html">
+Your e-mail address: <INPUT NAME="required-email"><p>
+Your name: <INPUT NAME="required-name"><p>
+Message:<br><textarea NAME="required-message"></textarea><p>
 <INPUT TYPE="submit" value="Send e-mail">
 </FORM>
     </article>

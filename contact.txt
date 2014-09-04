@@ -1,8 +1,11 @@
+Reply-To: [required-email]
 To: yehuda@ymkatz.net
 Bcc: yehuda@ymkatz.net
 Subject: TheTorahspring.org Contact Form
 
 Name:   [required-name]
-Message: [required-message]
+Message: 
+[required-message]
 
-[$HTTP_USER_AGENT]
+Remote Address: [$REMOTE_ADDR]
+User Agent: [$HTTP_USER_AGENT]
