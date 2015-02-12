@@ -7,7 +7,7 @@ sponsor: "Robert and Hannah Klein<br>on the yahrzeit of his father<br>Milton Kle
 learning: "Nach: Yirmiyah 31-32<br>Mishnah: Keilim 23:4-5<br>Daf Yomi (Bavli): Ketubot 12<br>Halachah: Mishnah Berurah 541:2-4"
 volume: 29
 issue: 18
-pdf: "Mishpatim 5775.pdf"
+pdf: "Mishpatim 5775"
 ---
 
 This week&rsquo;s parashah is the first that contains express mention of shemittah, specifically the verses (23:10-11), &ldquo;Six years shall you sow your land and gather in its produce.  And in the seventh, you shall leave it untended and unharvested, and the destitute of your people shall eat, and the wildlife of the field shall eat what is left; so shall you do to your vineyard and your olive grove.&rdquo;
@@ -18,42 +18,63 @@ Kabbalists speak of parallelism between the Jewish soul and Eretz Yisrael.  The 
 ********
 
 > &ldquo;If one man&rsquo;s ox shall strike his fellow&rsquo;s ox . . .&rdquo;  (21:35)
+
 The first mishnah in Masechet Bava Kamma teaches: There are four primary categories of things that cause damage -- shor / an ox, bor / a pit, mav&rsquo;eh / an animal&rsquo;s teeth, and hev&rsquo;er / fire. Each category has unique laws as to the circumstances under which the owner of the nuisance is liable.
+
 R&rsquo; Dov Ber z&rdquo;l (the Maggid of Mezeritch, the successor to the Ba&rsquo;al Shem Tov; died 1772) explains this mishnah in an allegorical fashion as referring to four significant human faults:
+
 &ldquo;Shor&rdquo; is related to &ldquo;ashurenu&rdquo;/ &ldquo;I shall look at him&rdquo; (Bemidbar 24:17). This refers to the damage a person inflicts on his soul by letting his eyes wander.
+
 &ldquo;Bor&rdquo; is related to &ldquo;sde bur&rdquo;/ an unplowed or barren field. This alludes to a person who does not study Torah; therefore, he cannot grow.
+
 &ldquo;Mav&rsquo;eh&rdquo;/ &ldquo;tooth&rdquo; refers to eating too much, which is harmful to the soul.
+
 Finally, &ldquo;hev&rsquo;er&rdquo;/ &ldquo;fire&rdquo; refers to anger.  (Tzava&rsquo;at Ha&rsquo;Rivash no.121)
 
 ********
 
 > &ldquo;&lsquo;Eem&rsquo; / when you lend money to My people, to the poor person who is with you . . .&rdquo; (22:24)
+
 Rashi z&rdquo;l quotes the sage Rabbi Yishmael: &ldquo;Wherever &lsquo;eem&rsquo; occurs in a verse it refers to an act that is optional \[i.e., it means &ldquo;if&rdquo;\], except in three instances \[where it means &ldquo;when&rdquo;\], and this is one of those three.&rdquo; \[Lending money to other Jews is obligatory, not optional.\]
+
 R&rsquo; Naftali Zvi Yehuda Berlin z&rdquo;l (1817-1893; rabbi and rosh yeshiva in Volozhin, Belarus; known as the &ldquo;Netziv&rdquo;) writes: We read in Tehilim (89:2), &ldquo;The world is built on kindness / chessed.&rdquo; Performing acts of chessed is everyone&rsquo;s obligation--gentiles as well as Jews. One of the proofs that gentiles are obligated to perform acts of chessed, writes the Netziv, is the fact that Sodom was destroyed because its people did not perform chessed. If they weren&rsquo;t obligated, how could they have been punished?
+
 The Netziv continues: Besides the universal obligation to perform chessed, Jews are commanded by the Torah to perform chessed. Our verse is one example of that commandment. What is added by such a commandment, if there is a pre-existing moral obligation to do chessed? Chessed as defined by the Torah includes regulations that are not part of the pre-existing obligation and which, in some cases, may not seem rational. One example is the prohibition on charging a Jew interest on a loan. Giving a loan that bears interest also is an act of kindness and is perfectly moral; indeed, it permits both the borrower and the lender to benefit from the transaction. The Torah imposes a higher standard, however, and demands that we not charge a Jew interest.  (Haskamah to the Chafetz Chaim&rsquo;s Ahavat Chessed)
 
 ********
 
 > &ldquo;He took the Book of the Covenant and read it in the ears of the people, and they said, &lsquo;Everything that Hashem has said, na&rsquo;aseh v&rsquo;nishmah / we will do and we will listen!&rsquo; &rdquo; (24:7)
+
 In the zemer &ldquo;Yom Shabbaton,&rdquo; we sing, &ldquo;Then they all joined together in a covenant - &lsquo;Na&rsquo;aseh v&rsquo;nishmah,&rsquo; they said as one.&rdquo; R&rsquo; Aharon Rokeach z&rdquo;l (1880-1957; Belzer Rebbe) explains: G-d created boundaries in His world--a kohen can&rsquo;t be a levi, a levi can&rsquo;t be a kohen, and a yisrael can&rsquo;t be either. But, because the Jewish People said &ldquo;Na&rsquo;aseh v&rsquo;nishmah&rdquo; and agreed collectively to observe the entire Torah, they formed a covenant through which everyone is considered a partner in the fulfillment of everyone else&rsquo;s mitzvot.
+
 R&rsquo; Yissachar Dov Rokeach z&rdquo;l (1851-1926; R&rsquo; Aharon&rsquo;s father and predecessor as Belzer Rebbe) expresses a related thought in connection with the verse (Bemidbar 16:10) in which Moshe Rabbeinu says to the rebellious Korach, &ldquo;He drew you near, and all your brethren, the offspring of Levi, with you--yet you seek priesthood, as well!&rdquo; The Midrash Rabbah interprets Moshe&rsquo;s statement to mean: &ldquo;You wish to be a kohen?  I also wish to be a kohen!&rdquo; How could Moshe say such a thing, which appears to question G-d&rsquo;s judgment?  Moshe meant: Although neither of us is a kohen, we both can fulfill the mitzvot of the priesthood in thought by wanting to perform those commandments. Hashem, Who gives credit for good thoughts when a person is prevented, through no fault of his own, from translating his thought into deed, will view this as if the person performed the mitzvot in deed as well.  (Quoted in Orchot Rabboteinu p.24)
 
 ********
 
 > &ldquo;Hashem said to Moshe, &lsquo;Ascend to Me to the mountain and remain there, and I shall give you the stone Tablets and the teaching and the commandment that I have written, to teach them&rsquo;.&rdquo; (24:12)
+
 R&rsquo; Moshe ben Nachman z&rdquo;l (Ramban; Spain and Eretz Yisrael; 1194-1270) writes in the introduction to his Torah commentary: Moshe Rabbeinu wrote the book of Bereishit, with the rest of the Torah, as dictated by G-d. Very likely, he wrote it \[Bereishit\] at Har Sinai, as implied in our verse: &ldquo;I shall give you the stone Tablets and the teaching and the commandment.&rdquo; &ldquo;The stone Tablets&rdquo; refers to the Luchot and what was written on them. &ldquo;The commandment&rdquo; refers to all of the mitzvot. Therefore, &ldquo;the teaching&rdquo; must refer to the stories from the beginning of Bereishit \[until here\], for they teach a person to live a life of emunah / faith.
+
 Ramban explains further: When Moshe came down from the mountain \[the third time\], he wrote from the beginning of the Torah until the end of the description of the mishkan / Tabernacle. The rest of the Torah he wrote at the end of the 40 years in the desert, as it is written at that time (Devarim 31:26), &ldquo;Take this book of the Torah, and place it at the side of the Ark of the covenant of Hashem, and it shall be there for you as a witness.&rdquo;
+
 This, continues Ramban, is according to the opinion (in the Gemara-- Gittin 60a) that the Torah was written in multiple parts. According to the opinion that the Torah was written all at once, it was all written at the end of the 40 years, when Moshe was commanded (Devarim 31:19), &ldquo;So now, write this song \[i.e., the Torah\] for yourselves, and teach it to Bnei Yisrael, place it in their mouth.&rdquo;  (Be&rsquo;ur Ha&rsquo;Ramban)
 
 ********
 
 Shemittah
-> This week we continue discussing the sanctity of the fruits of shevi&rsquo;it / the seventh year. Specifically, we summarize this week permitted uses of produce other than eating and drinking.
-> The halachot below are taken from chapter seven of Sefer Ha&rsquo;shemittah by R&rsquo; Yechiel Michel Tukachinsky z&rdquo;l.
-One is permitted to rub produce on his skin even if the produce is edible, so long as the produce is fit for skin care as well. Specifically, this refers to certain oils. However, one may not rub oil that is fit for eating either on animals or on utensils.
-One may use even edible produce as fuel provided it is normally used as such (again, referring to certain oils). However, this is permitted only if the pleasure (i.e., light or heat) is derived simultaneously with the oil being destroyed. Therefore, one would not be permitted to pour edible oil into a bonfire, which destroys the oil without providing a noticeable benefit. Also, one may not use edible oil (of shemittah) for Chanukah candles, for yahrzeit candles, or for the ceremonial candles that stand in front of the chazzan at shul since one does not derive physical pleasure from those lights.
-One may not use shemittah produce to make laundry detergent if the produce is fit for any other purpose (eating, drinking, perfuming, dyeing).
-Produce that has no use other than to be smelled also has sanctity of shevi&rsquo;it. \[This includes some flowers.\] Once there is no aroma remaining, the produce may be disposed of.
-Produce that was planted solely for use in mitzvot - i.e., lulavim, hadassim and aravot - do not have sanctity of shemittah. \[However, etrogim do, as they are edible. This topic will be discussed in Hamaayan before next Sukkot.\]
-Flowers that have no aroma and are grown for beauty have no sanctity of shevi&rsquo;it. (Like any other plant, one may not plant them during the shemittah; here, we deal only with the consequences if they did grow.)
 
+> This week we continue discussing the sanctity of the fruits of shevi&rsquo;it / the seventh year. Specifically, we summarize this week permitted uses of produce other than eating and drinking.
+
+> The halachot below are taken from chapter seven of Sefer Ha&rsquo;shemittah by R&rsquo; Yechiel Michel Tukachinsky z&rdquo;l.
+
+One is permitted to rub produce on his skin even if the produce is edible, so long as the produce is fit for skin care as well. Specifically, this refers to certain oils. However, one may not rub oil that is fit for eating either on animals or on utensils.
+
+One may use even edible produce as fuel provided it is normally used as such (again, referring to certain oils). However, this is permitted only if the pleasure (i.e., light or heat) is derived simultaneously with the oil being destroyed. Therefore, one would not be permitted to pour edible oil into a bonfire, which destroys the oil without providing a noticeable benefit. Also, one may not use edible oil (of shemittah) for Chanukah candles, for yahrzeit candles, or for the ceremonial candles that stand in front of the chazzan at shul since one does not derive physical pleasure from those lights.
+
+One may not use shemittah produce to make laundry detergent if the produce is fit for any other purpose (eating, drinking, perfuming, dyeing).
+
+Produce that has no use other than to be smelled also has sanctity of shevi&rsquo;it. \[This includes some flowers.\] Once there is no aroma remaining, the produce may be disposed of.
+
+Produce that was planted solely for use in mitzvot - i.e., lulavim, hadassim and aravot - do not have sanctity of shemittah. \[However, etrogim do, as they are edible. This topic will be discussed in Hamaayan before next Sukkot.\]
+
+Flowers that have no aroma and are grown for beauty have no sanctity of shevi&rsquo;it. (Like any other plant, one may not plant them during the shemittah; here, we deal only with the consequences if they did grow.)

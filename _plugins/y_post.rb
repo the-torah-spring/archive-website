@@ -1,4 +1,5 @@
 require 'hebruby'
+require 'filesize'
 
 module Jekyll
   class Post
@@ -27,26 +28,55 @@ module Jekyll
     end
     
     def pdf_name
-      "#{self.heb_year}/#{self.data['pdf']}"
+      pdf_fn = self.data['pdf']
+      pdf_fn.slice! site.config['pdf_ext']
+      
+      "#{self.heb_year}/#{self.data['pdf']}#{site.config['pdf_ext']}"
+    end
+    def thumb_name
+      pdf_fn = self.data['pdf']
+      pdf_fn.slice! site.config['pdf_ext']
+      
+      "#{self.heb_year}/#{pdf_fn}#{site.config['thumb_ext']}"
+      
     end
     def pdf_abs_path
-      "#{Dir.pwd}/#{site.config['file_loc']}#{pdf_name}"
+      "#{Dir.pwd}/#{site.config['pdf_loc']}#{pdf_name}"
+    end
+    def thumb_abs_path
+      "#{Dir.pwd}/#{site.config['thumb_loc']}#{thumb_name}"
     end
     def pdf_link
-      "#{site.config['link_loc']}#{pdf_name}"
+      "#{site.config['pdf_link_loc']}#{pdf_name}"
+    end
+    def thumb_link
+      "#{site.config['thumb_link_loc']}#{thumb_name}"
     end
     def has_pdf
       File.file?(self.pdf_abs_path)
     end
+    def has_thumb
+      File.file?(self.thumb_abs_path)
+    end
     def pdf_size
-      "0 bytes"
+      File.size?(self.pdf_abs_path)
+    end
+    def thumb_size
+      File.size?(self.thumb_abs_path)
+    end
+    def pdf_size_pretty
+      Filesize.new(self.pdf_size, Filesize::SI).pretty
     end
     
     def to_liquid(attrs = ATTRIBUTES_FOR_LIQUID)
       original_to_liquid(attrs + %w[
         date_string
 	pdf_link
+	thumb_link
 	has_pdf
+	has_thumb
+	pdf_size
+	pdf_size_pretty
 	heb_year
       ])
     end
@@ -57,5 +87,16 @@ module Jekyll
         :heb_year    => self.heb_year.to_s
       })
     end
+  end
+end
+
+class Filesize
+  alias_method :original_to_s, :to_s
+
+  # @param (see #to_f)
+  # @return [String] Same as {#to_f}, but as a string, with the unit appended.
+  # @see #to_f
+  def to_s(unit = 'B')
+    "%.0f%s" % [to(unit).to_f.to_s, unit]
   end
 end
