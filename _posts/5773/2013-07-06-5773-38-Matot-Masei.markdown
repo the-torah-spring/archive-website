@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matot-Masei 5773 - &ldquo;It Must Have Been a Miracle!&rdquo;"
+title: "Matot-Mas'ei 5773 - &ldquo;It Must Have Been a Miracle!&rdquo;"
 date: "2013-07-06"
 author: skatz
 sponsor: 

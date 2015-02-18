@@ -7,7 +7,7 @@ sponsor: "Aaron and Rona Lerner <br> in memory of mother <br> Faiga Reva bat Yoe
 learning: "Tanach: Divrei Ha'yamim II 7-8<br> Mishnah: Nedarim 7:4-5<br> Daf Yomi (Bavli): Berachot 52<br> Halachah Yomit: Orach Chaim 128:7-9"
 volume: 26
 issue: 47
-pdf: "Vayeilech 5773.pdf"
+pdf: "Vayeilech 5772.pdf"
 ---
 
 Please watch for our Yom Kippur issue!

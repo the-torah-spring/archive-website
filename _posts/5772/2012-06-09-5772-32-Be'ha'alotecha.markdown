@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beha'alotecha 5772 - &ldquo;The Father of Prophets&rdquo;"
+title: "Be'ha'alotecha 5772 - &ldquo;The Father of Prophets&rdquo;"
 date: "2012-06-09"
 author: skatz
 sponsor: 

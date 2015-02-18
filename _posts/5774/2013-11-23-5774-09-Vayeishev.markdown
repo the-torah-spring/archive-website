@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vayeisheiv 5774 - &ldquo;The Lost Jewel&rdquo;"
+title: "Vayeishev 5774 - &ldquo;The Lost Jewel&rdquo;"
 date: "2013-11-23"
 author: skatz
 sponsor: "Shlomo and Sharona Katz <br> on the engagement of <br> our son Eliezer to Elky Gilden"

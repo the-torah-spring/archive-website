@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acharei 5774 - &ldquo;Habits&rdquo;"
+title: "Acharei Mot 5774 - &ldquo;Habits&rdquo;"
 date: "2014-04-12"
 author: skatz
 sponsor: "Aaron and Rona Lerner <br>in memory of their fathers <br>Avraham ben Yaakov Hakohen a\"h <br>and Yaakov Yonah ben Yisrael a\"h <br>&nbsp;&nbsp;&nbsp;<br>The Neugroschl family <br>on the yahrzeit of <br>Genendel bat Yaakov v'Rachel a\"h <br>&nbsp;&nbsp;&nbsp;<br>Martin and Michelle Swartz <br>on the yahrzeit of <br>his grandmother, Eva (nee Kalikow) Lichman a\"h"
