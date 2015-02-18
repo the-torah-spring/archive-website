@@ -1,0 +1,79 @@
+- group: Sefer Bereishit
+  items:
+    - Bereishit
+    - Noach
+    - Lech Lecha
+    - Vayera
+    - Chayei Sarah
+    - Toldot
+    - Vayeitzei
+    - Vayishlach
+    - Vayeishev
+    - Mikeitz
+    - Vayigash
+    - Vayechi
+
+- group: Sefer Shmot
+  items:
+    - Shmot
+    - Va'era
+    - Bo
+    - Beshalach
+    - Yitro
+    - Mishpatim
+    - Terumah
+    - Tetzaveh
+    - Ki Tissa
+    - Vayakhel
+    - Pekudei
+
+- group: Sefer Vayikra
+  items:
+    - Vayikra
+    - Tzav
+    - Shemini
+    - Tazria
+    - Metzora
+    - Acharei Mot
+    - Kedoshim
+    - Emor
+    - Behar
+    - Bechukotai
+
+- group: Sefer Bamidbar
+  items:
+    - Bemidbar
+    - Nasso
+    - Be'ha'alotecha
+    - Shelach
+    - Korach
+    - Chukat
+    - Balak
+    - Pinchas
+    - Matot
+    - Mas'ei
+
+- group: Sefer Devarim
+  items:
+    - Devarim
+    - Va'etchanan
+    - Eikev
+    - Re'eh
+    - Shoftim
+    - Ki Teitzei
+    - Ki Tavo
+    - Nitzavim
+    - Vayeilech
+    - Ha'azinu
+#   - V'Zot HaBracha  # There is never this issue
+
+- group: Yom Tov
+  show_empty: false
+  items:
+    - Rosh Hashana
+    - Yom Kippur
+    - Succot
+    - Chanukah
+    - Purim
+    - Pesach
+    - Shavu'ot

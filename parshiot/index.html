@@ -1,0 +1,40 @@
+---
+layout: post-index
+title: Parsha Archive
+description: "An archive of issue sorted by parsha."
+---
+
+{% capture site_parshiot %}{% for parsha in site.parshiot %}{{ parsha | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign parshiot_list = site_parshiot | split:',' | sort %}
+
+{% for item in (0..site.data.portions.size) %}{% unless forloop.last %}
+  {% capture group %}{{ site.data.portions[item].group | strip_newlines }}{% endcapture %}
+	<article>
+	<h2 id="{{ group }}" class="tag-heading">{{ group }}</h2>
+    {% for parsha in site.data.portions[item].items %}
+	{% if site.parshiot[parsha] or site.data.portions[item].show_empty %}
+      <h3 class="entry-title"><a title="{{ parsha }}" name="{{ parsha }}">{{ parsha }}</a></h3>
+      <ul>
+    {% for post in site.parshiot[parsha] %}{% if post.title != null %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endif %}{% endfor %}
+		</ul>
+	{% endif %}
+    {% endfor %}
+	</article><!-- /.hentry -->
+{% endunless %}{% endfor %}
+
+{% if site.unknown_parshiot.size > 0 %}
+<article>
+	<h2 class="tag-heading">Others</h2>
+	<p>These names did not match any recognized names.</p>
+	{% for parsha in site.unknown_parshiot %}
+		<h3 class="entry-title">{{ parsha }}</h3>
+		<ul>
+		{% for post in site.parshiot[parsha] %}{% if post.title != null %}
+			<li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}{% endfor %}
+		</ul>
+	{% endfor %}
+</article>
+{% endif %}
