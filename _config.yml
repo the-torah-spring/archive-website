@@ -41,7 +41,7 @@ gems:
   - filesize
 
 permalink: /:heb_year/:title
-paginate:  3
+#paginate:  3
 
 exclude:
   - Gemfile
