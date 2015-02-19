@@ -1,19 +1,9 @@
-﻿---
+---
 layout: post
 title: "Terumah 5775 - &ldquo;The World in Miniature&rdquo;"
 date: "2015-02-21"
 author: skatz
-sponsor: "Mrs. Rochelle Dimont and family<br>
-on the yahrzeit of<br>
-father-in-law and grandfather,<br>
-Rabbi Shmuel Elchanan Dimont a&rdquo;h<br>
-and mother and grandmother,<br>
-Mrs. Chaya Tarshish a&rdquo;h<br>
-<br>
-Mr. & Mrs. Howard Benn<br>
-on the 10th yahrzeit of his mother<br>
-Fay Benn<br>
-(Fayga bat Alter Yitzchok Dov a&rdquo;h)"
+sponsor: "Mrs. Rochelle Dimont and family<br>on the yahrzeit of<br>father-in-law and grandfather,<br>Rabbi Shmuel Elchanan Dimont a&rdquo;h<br>and mother and grandmother,<br>Mrs. Chaya Tarshish a&rdquo;h<br><br>Mr. & Mrs. Howard Benn<br>on the 10th yahrzeit of his mother<br>Fay Benn<br>(Fayga bat Alter Yitzchok Dov a&rdquo;h)"
 learning: "Nach: Yirmiyah 45-46<br>Mishnah: Keilim 24:13-14<br>Daf Yomi (Bavli): Ketubot 19<br>Halachah: Mishnah Berurah 545:11-546:2"
 volume: 29
 issue: 19
