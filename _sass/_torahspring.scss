@@ -1,0 +1,59 @@
+body {
+	overflow-y: scroll;
+	text-align: justify;
+}
+
+div.download_pdf {
+	float: right;
+	margin: 10px;
+	text-align: center;
+}
+div.download_pdf img {
+	border: 1px solid #BFBFBF;
+	box-shadow: 2px 2px 3px #aaaaaa;
+}
+
+.popup_box {
+  background: white;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 400px;
+  margin: 40px auto;
+  position: relative;
+}
+
+/* 
+====== Move-horizontal effect ======
+*/
+.mfp-move-horizontal {
+  /* start state */
+  .mfp-with-anim {
+    opacity: 0;
+    transition: all 0.3s;
+    transform: translateX(-50px);
+  }
+  &.mfp-bg {
+    opacity: 0;
+	  transition: all 0.3s;
+  }
+  /* animate in */
+  &.mfp-ready {
+    .mfp-with-anim {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    &.mfp-bg {
+      opacity: 0.8;
+    }
+  }
+  /* animate out */
+  &.mfp-removing {
+    .mfp-with-anim {
+      transform: translateX(50px);
+      opacity: 0;
+    }
+    &.mfp-bg {
+      opacity: 0;
+    }
+  }
+}

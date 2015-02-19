@@ -1,0 +1,25 @@
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="{{ site.url }}/">Home</a></li>
+		<li>
+			<a href="#">Issue Archives</a>
+			<ul class="dl-submenu">
+				<li><a href="{{ site.url }}/years/">By Year</a></li>
+				<li><a href="{{ site.url }}/parshiot/">By Parsha</a></li>
+			</ul>
+		</li>
+	{% for link in site.data.navigation %}
+		{% if link.url contains 'http' %}
+			{% assign domain = '' %}
+		{% else %}
+			{% assign domain = site.url %}
+		{% endif %}
+		<li>
+			<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+				{{ link.title }}
+			</a>
+		</li>
+	{% endfor %}
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->

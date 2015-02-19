@@ -1,12 +1,16 @@
-name: Hama'ayan / <br> The Torah Spring
-description: Hamaayan is prepared by laymen and published weekly for the edification and enjoyment of the reader who is lacking the time or ability to study the weekly parashah on his own. Hamaayan's goal is to acquaint the reader with a broad spectrum of traditional Torah commentary -- classical, recent and "obscure" -- as well as with aspects of Jewish history and thought.<br><br>Hamaayan is edited by Shlomo Katz. 
-markdown: kramdown
-permalink: /:heb_year/:title
-alert: We are in the process of moving the Hama'ayan archives to a new site. Thank you for your patience.
-
+name: Hama'ayan / The Torah Spring
+title: Hama'ayan / The Torah Spring
+description: Hamaayan is prepared by laymen and published weekly for the edification and enjoyment of the reader who is lacking the time or ability to study the weekly parashah on his own. Hamaayan's goal is to acquaint the reader with a broad spectrum of traditional Torah commentary -- classical, recent and &ldquo;obscure&rdquo; -- as well as with aspects of Jewish history and thought.  Hamaayan is edited by Shlomo Katz. 
+# Your site's domain goes here. When testing locally leave blank or use http://localhost:4000
 url: http://thetorahspring.org
 
-paginate: 10
+owner:
+    name: Hama'ayan / The Torah Spring
+
+background: 
+feature: sefer.jpg
+
+alert: We are in the process of moving the Hama'ayan archives to a new site. Thank you for your patience.
 
 pdf_loc: ../filestore/
 thumb_loc: ../thumbstore/
@@ -17,20 +21,34 @@ thumb_link_loc: /assets/thumb/
 pdf_ext: .pdf
 thumb_ext: .png
 
-analytics :
-    provider : google
-    google : 
-        tracking_id : 'UA-53433541-1'
+analytics:
+    google:
+        tracking_id: 'UA-53433541-1'
+        verify: 
+    bing:
+        verify:
 
 recaptcha:
     public: 6LehufkSAAAAACouGd1WhowTv_NDaK1gi95v7DNL
-    private: 
+    private:
+
+timezone:  America/New_York
+future:    true
+markdown:  kramdown
 
 gems:
   - jekyll-sitemap
   - filesize
 
+permalink: /:heb_year/:title
+paginate:  3
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - Rakefile
+  - Rakefile.rb
+  - Gruntfile.js
+  - package.json
+  - node_modules

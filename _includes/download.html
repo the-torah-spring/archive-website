@@ -1,0 +1,12 @@
+<div class="download_pdf">
+  {% if download.has_pdf %}
+    <a href="{{ download.pdf_link | uri_escape }}">
+      {% if download.has_thumb %}
+        <img src="{{ download.thumb_link | uri_escape }}" alt="{{ download.title }} PDF Thumbnail"><br>
+      {% endif %}
+      Download PDF
+    </a>
+  {% else %}
+    No PDF available
+  {% endif %}
+</div>
