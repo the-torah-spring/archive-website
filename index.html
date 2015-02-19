@@ -6,13 +6,12 @@ layout: post-index
 	{% for post in site.posts limit:3 %}
 	<article>
 		<h2><a class="red" href="{{ post.url }}">{{ post.title }}</a></h2>
-		<span class="entry-volume">Volume {{ post.volume }}, Issue {{ post.issue }}</span><br>
-		<span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date_string }}</time></span>
-		
 		<div>
+			<span class="entry-volume">Volume {{ post.volume }}, Issue {{ post.issue }}</span><br>
+			<span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date_string }}</time></span>
 			{% assign download = post %}
 			{% include download.html %}
-			<p>{{ post.sponsor | strip_html }}</p>
+			<p class="sponsors">Spronsored by<br>{{ post.sponsor }}</p>
 			<p><a href="{{ post.url }}">Read more&hellip;</a></p>
 		</div>
 		<br style="clear: both">
