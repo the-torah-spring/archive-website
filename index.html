@@ -3,47 +3,26 @@ layout: post-index
 ---
 
 <section class="main-content">
-
-    {% for post in site.posts %}
-  <article>
-
-    <h2><a class="red" href="{{ post.url }}">{{ post.title }}</a></h2>
-    <span class="entry-volume">Volume {{ post.volume }}, Issue {{ post.issue }}</span><br>
-    <span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date_string }}</time></span>
+	{% for post in site.posts limit:3 %}
+	<article>
+		<h2><a class="red" href="{{ post.url }}">{{ post.title }}</a></h2>
+		<span class="entry-volume">Volume {{ post.volume }}, Issue {{ post.issue }}</span><br>
+		<span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date_string }}</time></span>
+		
+		<div>
+			{% assign download = post %}
+			{% include download.html %}
+			<p>{{ post.sponsor | strip_html }}</p>
+			<p><a href="{{ post.url }}">Read more&hellip;</a></p>
+		</div>
+		<br style="clear: both">
+	</article>
+	{% endfor %}
 	
-    <div>
-        {% assign download = post %}
-        {% include download.html %}
-	<p>{{ post.sponsor | strip_html }}</p>
-	<p><a href="{{ post.url }}">Read more&hellip;</a></p>
-    </div>
-	<br style="clear: both">
-  </article>
+	<article>
+		<h2>Find Other Issues</h2>
+		<p><a href="{{ site.url }}/parshiot/">Find by Parsha/Yom Tov</a></p>
+		<p><a href="{{ site.url }}/years/">Find by Year</a></p>
+	</article>
 
-    {% endfor %}
-	
-<div class="pagination">
-{% if paginator.total_pages > 1 %}
-  {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn">&laquo; Previous</a>
-  {% else %}
-    <span>&laquo; Previous</span>
-  {% endif %}
-
-		{% for page in (1..paginator.total_pages) %}
-			{% if page == paginator.page %}
-				<em>{{ page }}</em>
-			{% elsif page == 1 %}
-				<a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-			{% else %}
-				<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-			{% endif %}
-		{% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn">Next &raquo;</a>
-  {% else %}
-			<span>Next &raquo;</span>
-  {% endif %}
-{% endif %}
-</div>
+</section>
