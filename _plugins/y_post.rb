@@ -30,12 +30,14 @@ module Jekyll
     
     def pdf_name
       pdf_fn = self.data['pdf']
+      return "" if pdf_fn == nil
       pdf_fn.slice! site.config['pdf_ext']
       
       "#{self.heb_year}/#{self.data['pdf']}#{site.config['pdf_ext']}"
     end
     def thumb_name
       pdf_fn = self.data['pdf']
+      return "" if pdf_fn == nil
       pdf_fn.slice! site.config['pdf_ext']
       
       "#{self.heb_year}/#{pdf_fn}#{site.config['thumb_ext']}"
@@ -72,7 +74,7 @@ module Jekyll
     def populate_parshiot
       self.parshiot = Utils.pluralized_array_from_hash(data, "parsha", "parshiot").flatten
       if (self.parshiot.count == 0)
-        parsha_data = self.title.match(/^(?<parsha>.*) (?<year>\d{4}) \- .*$/)
+        parsha_data = self.title.match(/^(?<parsha>.*) (?<year>\d{4})(?<title> \- .*)?$/)
 	parsha_data["parsha"].split('-').each { |t|
 	  self.parshiot.push t.strip
 	}
