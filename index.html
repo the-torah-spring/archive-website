@@ -11,7 +11,9 @@ layout: post-index
 			<span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date_string }}</time></span>
 			{% assign download = post %}
 			{% include download.html %}
-			<p class="sponsors">Spronsored by<br>{{ post.sponsor }}</p>
+			{% if post.sponsor %}
+			<p class="sponsors">Sponsored by<br>{{ post.sponsor }}</p>
+			{% endif %}
 			<p><a href="{{ post.url }}">Read more&hellip;</a></p>
 		</div>
 		<br style="clear: both">
