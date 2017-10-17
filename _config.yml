@@ -38,7 +38,7 @@ timezone:  America/New_York
 future:    true
 markdown:  kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
   - filesize
 

@@ -1,4 +1,4 @@
-require 'RMagick'
+require 'rmagick'
 
 class Thumbnails < Jekyll::Command
   class << self
